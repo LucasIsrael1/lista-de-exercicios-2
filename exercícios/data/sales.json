@@ -1,0 +1,84 @@
+{
+    "sales": [
+        {
+            "name": "Maria Albuquerque",
+            "value": 57.29
+        },
+        {
+            "name": "Sra. Mariana Reis",
+            "value": 67.22
+        },
+        {
+            "name": "Vitória Martins Neto",
+            "value": 23.34
+        },
+        {
+            "name": "Vitória Martins Neto",
+            "value": 29.94
+        },
+        {
+            "name": "Sra. Mariana Reis",
+            "value": 62.82
+        },
+        {
+            "name": "Maria Albuquerque",
+            "value": 82.8
+        },
+        {
+            "name": "Vitória Martins Neto",
+            "value": 55.09
+        },
+        {
+            "name": "Manuela Melo",
+            "value": 99.24
+        },
+        {
+            "name": "Sra. Mariana Reis",
+            "value": 39.65
+        },
+        {
+            "name": "Sra. Mariana Reis",
+            "value": 87.01
+        },
+        {
+            "name": "Manuela Melo",
+            "value": 72.36
+        },
+        {
+            "name": "Vitória Martins Neto",
+            "value": 10.72
+        },
+        {
+            "name": "Sra. Mariana Reis",
+            "value": 34.17
+        },
+        {
+            "name": "Alessandro Braga",
+            "value": 49.21
+        },
+        {
+            "name": "Manuela Melo",
+            "value": 15.24
+        },
+        {
+            "name": "Maria Albuquerque",
+            "value": 43.91
+        },
+        {
+            "name": "Vitória Martins Neto",
+            "value": 97.48
+        },
+        {
+            "name": "Manuela Melo",
+            "value": 38.24
+        },
+        {
+            "name": "Alessandro Braga",
+            "value": 87.42
+        },
+        {
+            "name": "Manuela Melo",
+            "value": 91.8
+        }
+    ]
+}
